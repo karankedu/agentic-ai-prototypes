@@ -1,0 +1,11 @@
+emp_id,name,department,designation,manager_id,manager_name,join_date,email,work_location
+EMP001,Rahul Sharma,Retail Banking,Analyst,EMP007,Karan Mehta,2024-03-15,rahul.sharma@firstnational.com,Mumbai - HQ
+EMP002,Priya Patel,Risk Management,Associate,EMP007,Karan Mehta,2023-06-01,priya.patel@firstnational.com,Mumbai - HQ
+EMP003,Amit Kumar,Compliance,Manager,EMP005,Vikram Singh,2021-09-10,amit.kumar@firstnational.com,Mumbai - HQ
+EMP004,Sneha Reddy,IT Department,Analyst,EMP005,Vikram Singh,2025-01-20,sneha.reddy@firstnational.com,Bengaluru - Tech Center
+EMP005,Vikram Singh,HR,Senior Manager,,HR Director,2019-04-05,vikram.singh@firstnational.com,Mumbai - HQ
+EMP006,Deepa Nair,Retail Banking,Associate,EMP007,Karan Mehta,2022-11-08,deepa.nair@firstnational.com,Chennai - Regional Office
+EMP007,Karan Mehta,Treasury,AVP,,CFO,2018-07-12,karan.mehta@firstnational.com,Mumbai - HQ
+EMP008,Ananya Gupta,Operations,Analyst,EMP009,Rohit Joshi,2024-08-25,ananya.gupta@firstnational.com,Mumbai - HQ
+EMP009,Rohit Joshi,Audit & Control,Manager,EMP007,Karan Mehta,2020-02-14,rohit.joshi@firstnational.com,Mumbai - HQ
+EMP010,Meera Iyer,Compliance,Associate,EMP003,Amit Kumar,2023-12-01,meera.iyer@firstnational.com,Mumbai - HQ

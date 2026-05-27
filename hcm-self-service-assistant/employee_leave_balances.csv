@@ -1,0 +1,11 @@
+emp_id,year,annual_leave_total,annual_leave_used,sick_leave_total,sick_leave_used,emergency_leave_total,emergency_leave_used,maternity_leave_total,maternity_leave_used,paternity_leave_total,paternity_leave_used
+EMP001,2026,24,7,12,2,3,0,0,0,15,0
+EMP002,2026,24,8,12,0,3,0,90,0,0,0
+EMP003,2026,24,12,12,3,3,1,0,0,15,0
+EMP004,2026,24,2,12,1,3,0,0,0,0,0
+EMP005,2026,24,15,12,5,3,0,0,0,15,5
+EMP006,2026,24,10,12,4,3,0,90,90,0,0
+EMP007,2026,24,18,12,0,3,0,0,0,15,0
+EMP008,2026,24,3,12,0,3,0,0,0,0,0
+EMP009,2026,24,7,12,2,3,0,0,0,15,0
+EMP010,2026,24,4,12,1,3,0,0,0,0,0

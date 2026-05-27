@@ -1,0 +1,17 @@
+request_id,emp_id,leave_type,start_date,end_date,days,status,reason,applied_date,approved_by
+LR-2026-0001,EMP001,annual_leave,2026-01-13,2026-01-17,5,Approved,Family vacation,2026-01-02,System
+LR-2026-0002,EMP001,sick_leave,2026-03-10,2026-03-11,2,Approved,Fever and cold,2026-03-10,System
+LR-2026-0003,EMP002,annual_leave,2026-02-03,2026-02-07,5,Approved,Wedding anniversary trip,2026-01-25,System
+LR-2026-0004,EMP002,annual_leave,2026-04-14,2026-04-17,3,Approved,School admission,2026-04-05,System
+LR-2026-0005,EMP003,annual_leave,2026-01-06,2026-01-10,5,Approved,New Year holidays,2025-12-20,System
+LR-2026-0006,EMP003,annual_leave,2026-03-24,2026-04-01,7,Approved,Holi and family time,2026-03-10,System
+LR-2026-0007,EMP003,sick_leave,2026-05-05,2026-05-07,3,Approved,Dengue fever,2026-05-05,System
+LR-2026-0008,EMP005,annual_leave,2026-01-13,2026-01-24,10,Approved,International trip,2025-12-15,System
+LR-2026-0009,EMP005,annual_leave,2026-04-06,2026-04-10,5,Approved,Family function,2026-03-28,System
+LR-2026-0010,EMP007,annual_leave,2026-01-06,2026-01-24,15,Approved,Extended vacation,2025-11-20,System
+LR-2026-0011,EMP007,annual_leave,2026-03-30,2026-04-04,3,Approved,Travel,2026-03-22,System
+LR-2026-0012,EMP006,annual_leave,2026-02-03,2026-02-14,10,Approved,Maternity preparation,2026-01-15,System
+LR-2026-0013,EMP009,annual_leave,2026-02-23,2026-03-02,5,Approved,Family visit,2026-02-10,System
+LR-2026-0014,EMP009,sick_leave,2026-04-20,2026-04-21,2,Approved,Medical procedure,2026-04-19,System
+LR-2026-0015,EMP010,annual_leave,2026-03-23,2026-03-27,4,Approved,Ugadi festival,2026-03-10,System
+LR-2026-0016,EMP001,annual_leave,2026-07-01,2026-07-02,2,Approved,Personal work,2026-05-28,System
